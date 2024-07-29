@@ -14,3 +14,7 @@ Funciones posibles:
 La interfaz es fea, pero lo que me importaba era finalizarlo lo antes posible y que cumpla con la función.
 
 Importante, si vas a usarlo debes abrir un servidor que te provee la página. En VScode existen extensiones como "Live Server" que te realizan eso.
+
+ACTUALIZACIÓN:
+
+- Se ha creado un ejecutable con electron-packager para facilitar el acceso.
